@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AplicacionA</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_pedido">PedidoActivity</string>
+    <string name="Pedido">pedido</string>
+    <string name="pulsar">pulsar</string>
+    <string name="fullname">Nombre y apellidos</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="register_new_account">Dar de alta nueva cuenta</string>
+    <string name="already_has_account_login_here">Si ya tienes cuenta, conectate aquí</string>
+
+</resources>
